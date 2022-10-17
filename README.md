@@ -1,16 +1,44 @@
-### Hi there 👋
+# **[Francisco Alejandro Hernández Liberon](https://github.com/alu0101225562)**
+## Ingeniero Informático
 
-<!--
-**alu0101225562/alu0101225562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologías ordenadas por experiencia
+1. React
+2. Node
+3. Laravel
+4. NextJs
 
-Here are some ideas to get you started:
+## Lenguajes de programación
+- JavaScript
+- Java
+- PHP
+- GO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Cita favorita:*
+>“The computer was born to solve problems that did not exist before.” — Bill Gates, Microsoft founder and former CEO, philanthropist
+
+Mi función favorita es:
+
+```js
+function fancyAlert(arg) {
+   if(arg) {
+    $.facebox({div:'#foo'})
+   }
+}
+```
+
+---
+
+
+## Experiencia actual en el master
+**[Francisco Alejandro Hernández Liberon](master.md)**
+
+## Objetivos en el master
+**[Francisco Alejandro Hernández Liberon](objetivos.md)**
+
+**Enlaces de contacto**:
+
+|      Redes Sociales       |                                                                                                                   |
+| :-----------------------: | :---------------------------------------------------------------------------------------------------------------: |
+|   LinkedIn :briefcase:    |               [<img src="logos/linkedin.png" width="32">](https://www.linkedin.com/in/alemarrero/)                |
+|  Google Scholar :school:  | [<img src="logos/google.png" width="32">](https://scholar.google.es/citations?hl=es&authuser=2&user=-E9F8KEAAAAJ) |
+
